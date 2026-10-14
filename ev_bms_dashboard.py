@@ -59,8 +59,8 @@ class BMSDashboard:
             font=("Arial", 10, "bold"), 
             bg="#007acc", 
             fg="#ffffff", 
-            activebackground="#005999",
-            activeforeground="#ffffff",
+            activebackground="#E4E6E7",
+            activeforeground="#a71212",
             command=self.toggle_cooling,
             relief=tk.FLAT,
             padx=10, pady=5
